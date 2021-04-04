@@ -1,8 +1,10 @@
-## Hello there! <img src="https://raw.githubusercontent.com/kaama21/kaama21/master/wave.gif" width="20px">
+## Hey there! <img src="https://raw.githubusercontent.com/kaama21/kaama21/master/wave.gif" width="20px">
+I'm a Full-Stack Developer working in Germany.
 
 ## ⚡ Technologies
 
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![Laravel](https://img.shields.io/badge/-Laravel-007ACC?style=flat-square&logo=laravel)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![TailwindCSS](https://img.shields.io/badge/-tailwindcss-black?style=flat-square&logo=tailwind-css)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
