@@ -1,3 +1,5 @@
+## Hello there! <img src="https://raw.githubusercontent.com/kaama21/kaama21/master/wave.gif" width="20px">
+
 ## ⚡ Technologies
 
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
@@ -12,3 +14,5 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Kaama21)
