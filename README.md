@@ -1,5 +1,5 @@
 ## Hey there! <img src="https://raw.githubusercontent.com/kaama21/kaama21/master/wave.gif" width="20px">
-I'm a Full-Stack Developer working in Germany.
+I'm a Full-Stack Developer living in Germany.
 
 ## ⚡ Technologies
 
